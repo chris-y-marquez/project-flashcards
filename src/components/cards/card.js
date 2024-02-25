@@ -14,9 +14,8 @@ function Card({card}) {
       })
     }
   }
-  }
+  
 
-return(
 return(
         <div className="border border-dark my-4 mx-5 rounded p-4 bg-light">
             <table>
@@ -49,7 +48,4 @@ return(
         </div>
     )
 }
-
 export default Card
-
-)

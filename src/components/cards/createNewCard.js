@@ -48,4 +48,4 @@ return(
 )
 }
 
-export default CreateNewCard
+export default createNewCard
